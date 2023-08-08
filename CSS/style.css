@@ -37,9 +37,9 @@ footer p {
 }
 
 .feitjes ul {
-  list-style-type: upper-roman;
-  margin: 5px;
-  padding: 5px;
+
+  margin: 10px;
+  padding: 3px;
 }
 
 .feitjes li {
